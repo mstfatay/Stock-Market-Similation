@@ -1,7 +1,7 @@
 # Stock-Market-Similation
 
 Caution: These tools are written by me and I used them for a small period of time to test an automatized strategy of stockmarket trading. Unfortunately, I didn't write any 
-documantation for these tools so probably no one will realy use them. But still I want to keep them here.
+documantation for these tools so probably no one will really use them. But still I want to keep them here.
 
 
 These tools simulate buy and sells according to some parameters that are set to describe a trade strategy using MACD inducator. Simulation uses stock prices data in csv format. After simulation runs,
